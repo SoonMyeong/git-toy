@@ -38,7 +38,7 @@
 ![img#6](https://user-images.githubusercontent.com/31875043/150365509-13ae1f97-b8e0-4f43-8d5a-1d2342c9452e.JPG)  
 6. 띠용! 커밋메시지가 하나로 합쳐졌다.  
 ![img#7](https://user-images.githubusercontent.com/31875043/150365617-619a9f3c-6b0e-4df2-9919-19f582281b09.JPG)
-7. 커밋메시지 합쳤으니까 master 브랜치에 merge 하여 master 브랜치를 최신화 시켜준다.  
+7. 커밋메시지 합쳤으니까 master 브랜치에 merge 하여 master 브랜치를 최신화 시켜준다. (커멧 메시지 합치고서는 force push 해야 한다!!!!!)
 (feature 브랜치가 어떤 일을 했는지 쉽게 알아볼 수 있게 되었다.)
 ![img#8](https://user-images.githubusercontent.com/31875043/150365922-e8ecb995-b408-4226-89a2-4e5e1a3cc3e1.JPG)
 
